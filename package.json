@@ -1,12 +1,12 @@
 {
-  "name": "microfrontend-template",
-  "description": "This is a template for creating a micro-frontend react app.",
-  "version": "1.0.20",
+  "name": "gameportal-bingo",
+  "description": "bingo game.",
+  "version": "1.0.0",
   "author": "badboyku",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/badboyku/microfrontend-template.git"
+    "url": "git+https://github.com/badboyku/gameportal-bingo.git"
   },
   "main": "src/index",
   "engines": {
